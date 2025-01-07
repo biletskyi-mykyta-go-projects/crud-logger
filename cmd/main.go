@@ -6,10 +6,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/biletskyi-mykyta/crud-logger/internal/config"
-	"github.com/biletskyi-mykyta/crud-logger/internal/repository"
-	"github.com/biletskyi-mykyta/crud-logger/internal/server"
-	"github.com/biletskyi-mykyta/crud-logger/internal/service"
+	"github.com/biletskyi-mykyta-go-projects/crud-logger/internal/config"
+	"github.com/biletskyi-mykyta-go-projects/crud-logger/internal/repository"
+	"github.com/biletskyi-mykyta-go-projects/crud-logger/internal/server"
+	"github.com/biletskyi-mykyta-go-projects/crud-logger/internal/service"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

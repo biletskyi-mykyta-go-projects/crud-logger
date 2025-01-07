@@ -2,9 +2,9 @@ package service
 
 import (
 	"context"
-	audit2 "github.com/biletskyi-mykyta/crud-logger/pkg/domain/audit"
+	audit2 "github.com/biletskyi-mykyta-go-projects/crud-logger/pkg/domain/audit"
 
-	audit "github.com/biletskyi-mykyta/crud-logger/pkg/domain"
+	audit "github.com/biletskyi-mykyta-go-projects/crud-logger/pkg/domain"
 )
 
 type Repository interface {

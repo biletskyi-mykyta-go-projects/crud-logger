@@ -2,7 +2,7 @@ package server
 
 import (
 	"fmt"
-	"github.com/biletskyi-mykyta/crud-logger/pkg/domain/audit"
+	"github.com/biletskyi-mykyta-go-projects/crud-logger/pkg/domain/audit"
 	"net"
 
 	"google.golang.org/grpc"

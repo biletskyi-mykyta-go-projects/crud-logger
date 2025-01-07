@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	audit "github.com/biletskyi-mykyta/crud-logger/pkg/domain"
+	audit "github.com/biletskyi-mykyta-go-projects/crud-logger/pkg/domain"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
