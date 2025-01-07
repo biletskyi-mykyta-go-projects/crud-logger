@@ -1,4 +1,4 @@
-module github.com/biletskyi-mykyta/crud-logger
+module github.com/biletskyi-mykyta-go-projects/crud-logger
 
 go 1.17
 
